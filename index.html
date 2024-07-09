@@ -9,14 +9,11 @@
 <body>
   <header class="banner">
     <div class="container">
-      <nav class="menu">
-        <ul>
-          <li><a href="#home">Home</a></li>
-          <li><a href="#about">About</a></li>
-          <li><a href="#portfolio">Portfolio</a></li>
-          <li><a href="#contact">Contact</a></li>
-        </ul>
-      </nav>
+      <div class="menu">
+        <button onclick="navigateTo('home')">Home</button>
+        <button onclick="navigateTo('posts')">Posts</button>
+        <button onclick="navigateTo('other')">Other</button>
+      </div>
     </div>
   </header>
 
@@ -31,5 +28,7 @@
       </a>
     </div>
   </div>
+
+  <script src="script.js"></script>
 </body>
 </html>
