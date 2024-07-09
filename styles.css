@@ -3,7 +3,7 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center; 
   height: 100vh;
   flex-direction: column;
   font-family: Arial, sans-serif;
@@ -18,8 +18,6 @@ h1 {
 }
 
 .social-icons {
-  display: flex;
-  justify-content: center;
   margin-top: 20px;
 }
 
@@ -29,7 +27,7 @@ h1 {
 }
 
 .social-icons img {
-  width: 40px;
-  height: 40px;
+  width: 32px;
+  height: 32px;
   cursor: pointer;
 }
