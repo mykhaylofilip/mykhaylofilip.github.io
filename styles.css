@@ -1,32 +1,68 @@
 body {
   margin: 0;
   padding: 0;
-  display: flex;
-  justify-content: center;
-  align-items: center;
-  min-height: 100vh;
-  background-color: #f0f0f0;
   font-family: Arial, sans-serif;
 }
 
+.banner {
+  background-color: #333;
+  color: #fff;
+  padding: 10px 0;
+}
+
 .container {
+  width: 80%;
+  margin: 0 auto;
+}
+
+.menu {
   text-align: center;
+}
+
+.menu ul {
+  list-style-type: none;
+  padding: 0;
+}
+
+.menu ul li {
+  display: inline-block;
+  margin-right: 20px;
+}
+
+.menu ul li:last-child {
+  margin-right: 0;
+}
+
+.menu ul li a {
+  text-decoration: none;
+  color: #fff;
+  font-weight: bold;
+  font-size: 16px;
+  padding: 10px 15px;
+  transition: background-color 0.3s ease;
+}
+
+.menu ul li a:hover {
+  background-color: #555;
+}
+
+.content {
+  text-align: center;
+  padding: 50px 0;
 }
 
 h1 {
   font-size: 3rem;
   color: #333;
-  margin-top: 20px;
 }
 
 .social-icons {
   margin-top: 20px;
-  text-align: center;
 }
 
 .social-icons a {
-  display: inline-block; 
-  margin: 0 10px; 
+  display: inline-block;
+  margin: 0 10px;
 }
 
 .social-icons img {
