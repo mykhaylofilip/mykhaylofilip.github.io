@@ -7,7 +7,7 @@ body {
 .banner {
   background-color: #ccc;
   color: #333;
-  padding: 10px 0;
+  padding: 20px 0;
   position: fixed;
   top: 0;
   left: 0;
@@ -28,7 +28,7 @@ body {
   background-color: #fff;
   color: #333;
   border: none;
-  padding: 10px 20px;
+  padding: 15px 30px;
   margin: 0 10px;
   cursor: pointer;
   font-size: 16px;
@@ -38,9 +38,21 @@ body {
   background-color: #ddd;
 }
 
+.menu button:nth-child(2) {
+  order: 2;
+}
+
+.menu button:nth-child(1) {
+  order: 1;
+}
+
+.menu button:nth-child(3) {
+  order: 3; 
+}
+
 .content {
   text-align: center;
-  padding-top: 80px; 
+  padding-top: 120px; 
 }
 
 h1 {
