@@ -5,9 +5,14 @@ body {
 }
 
 .banner {
-  background-color: #333;
-  color: #fff;
+  background-color: #ccc;
+  color: #333;
   padding: 10px 0;
+  position: fixed;
+  top: 0;
+  left: 0;
+  width: 100%;
+  z-index: 1000;
 }
 
 .container {
@@ -19,36 +24,23 @@ body {
   text-align: center;
 }
 
-.menu ul {
-  list-style-type: none;
-  padding: 0;
-}
-
-.menu ul li {
-  display: inline-block;
-  margin-right: 20px;
-}
-
-.menu ul li:last-child {
-  margin-right: 0;
-}
-
-.menu ul li a {
-  text-decoration: none;
-  color: #fff;
-  font-weight: bold;
+.menu button {
+  background-color: #fff;
+  color: #333;
+  border: none;
+  padding: 10px 20px;
+  margin: 0 10px;
+  cursor: pointer;
   font-size: 16px;
-  padding: 10px 15px;
-  transition: background-color 0.3s ease;
 }
 
-.menu ul li a:hover {
-  background-color: #555;
+.menu button:hover {
+  background-color: #ddd;
 }
 
 .content {
   text-align: center;
-  padding: 50px 0;
+  padding-top: 80px; 
 }
 
 h1 {
