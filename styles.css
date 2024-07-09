@@ -3,31 +3,30 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  align-items: flex-start;
+  align-items: center;
   min-height: 100vh;
   background-color: #f0f0f0;
   font-family: Arial, sans-serif;
 }
 
-h1 {
+.container {
   text-align: center;
+}
+
+h1 {
   font-size: 3rem;
   color: #333;
   margin-top: 20px;
 }
 
 .social-icons {
-  position: absolute;
-  top: 0;
-  left: 50%;
-  transform: translateX(-50%);
-  margin-top: 50px;
+  margin-top: 20px;
   text-align: center;
 }
 
 .social-icons a {
-  display: inline-block;
-  margin: 10px;
+  display: block;
+  margin: 10px auto;
 }
 
 .social-icons img {
