@@ -3,7 +3,7 @@ body {
   padding: 0;
   display: flex;
   justify-content: center;
-  align-items: center; 
+  align-items: flex-start; 
   height: 100vh;
   flex-direction: column;
   font-family: Arial, sans-serif;
