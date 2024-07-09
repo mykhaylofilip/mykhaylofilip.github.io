@@ -1,0 +1,14 @@
+body {
+  display: flex;
+  justify-content: center; /* Centers items horizontally */
+  align-items: center; /* Centers items vertically */
+  height: 100vh; /* Makes sure the container takes up the full viewport height */
+  margin: 0; /* Remove default margin */
+}
+
+h1 {
+  text-align: center; /* Centers text within the <h1> element */
+  font-family: Arial, sans-serif; /* Example: Choose a font */
+  font-size: 3rem; /* Example: Adjust font size */
+  color: #333; /* Example: Set text color */
+}
