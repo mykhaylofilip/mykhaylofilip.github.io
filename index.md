@@ -8,10 +8,8 @@ Welcome to my website! My name is Mykhaylo Filip and I am a passionate 15 year o
 > 
 > > [Posts](/posts)
 > > 
-> > > [2024](/posts/2024)
-> > 
 > > [Guides](/guides)
 > > 
+> > [Projects](/projects)
+> > 
 > > [Other](/etc)
-
-## 
