@@ -1,21 +1,22 @@
----
-title: "Mykhaylo Filip"
-permalink: /
-layout: default
---- 
+    title: "Mykhaylo Filip"
+    permalink: /
+    layout: default
+    
 
 # Home
 
 Welcome to my website! My name is Mykhaylo Filip and I am a passionate 15 year old Cyber Security Enthusiast. If you would like to further contact me, you can vist my [Github Page](https.github.com/mykhaylofilip) or email me at admin@mykhaylofilip.com.
 
-> ## Menu
+## Menu
+
+> [Home]()
 > 
-> [Home](mykhaylofilip.com)
-> 
-> > [Posts](mykhaylofilip.com/posts)
+> > [Posts](/posts)
 > > 
-> > > [2024](mykhaylofilip.com/posts/2024)
+> > > [2024](/posts/2024)
 > > 
-> > [Guides](mykhaylofilip.com/guides)
+> > [Guides](/guides)
 > > 
-> > [Other](mykhaylofilip.com/etc)
+> > [Other](/etc)
+
+## 
