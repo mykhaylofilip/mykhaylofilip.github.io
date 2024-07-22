@@ -1,18 +1,14 @@
----
-title: "Mykhaylo Filip"
-permalink: /
-layout: default
----
+    title: "Mykhaylo Filip"
+    permalink: /
+    layout: default
+    
 
-# Test
+# Home
 
-<details>
-<summary>Click to expand/collapse</summary>
+Welcome to my website! My name is Mykhaylo Filip and I am a passionate 15 year old Cyber Security Enthusiast. If you would like to further contact me, you can vist my [Github Page](https.github.com/mykhaylofilip) or email me at [admin@mykhaylofilip.com](sendmail:mykhaylofilip.com).
 
-### Collapsible Section
+## Menu
 
-- Item 1
-- Item 2
-- Item 3
+<details><summary>Pages</summary>- [Home](mykhaylofilip.com)</details>
 
-</details>
+* Pages
