@@ -1,7 +1,8 @@
-    title: "Mykhaylo Filip"
-    permalink: /
-    layout: default
-    
+---
+title: "Mykhaylo Filip"
+permalink: /
+layout: default
+---
 
 # Home
 
