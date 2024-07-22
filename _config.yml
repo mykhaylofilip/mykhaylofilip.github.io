@@ -1,5 +1,10 @@
 title: Mykhaylo Filip
-description: Posts
+description: >
+  [Home](https://mykhaylofilip.com)
+  [Posts](https://mykhaylofilip.com/posts)
+  [Guides](https://mykhaylofilip.com/guides)
+  [Projects](https://mykhaylofilip.com/projects)
+  [Other](https://mykhaylofilip.com/etc)
 show_downloads: false
 google_analytics: G-C2MZRVDFTM
 theme: jekyll-theme-slate
