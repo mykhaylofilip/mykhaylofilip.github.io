@@ -20,4 +20,4 @@ Was made with the Windows Form App template in Visual Studios.
 
 ---
 
-[*Go Home*](https://mykhaylofilip.com)  -  [*Go Back*](https://mykhaylofilip.com/posts)
+[*Go Home*](https://mykhaylofilip.com)  -  [*Go Back*](https://mykhaylofilip.com/projects)
