@@ -1,1 +1,4 @@
-# This is just a clear test for now!
+# Initial Post
+If you are seeing this post, that means my website is working perfectly fine. This is just a test and is used for updating/formating posts. Thank you!
+---
+[*Go Back*](https://mykhaylofilip.com)
