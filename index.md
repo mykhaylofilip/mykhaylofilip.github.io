@@ -7,6 +7,13 @@ Hello! Welcome to my website. I am a 16 year old Cyber and Math enthusiast, just
 
 If you would like to contact me you can do so through one of the following:
 
-- [Email](contact@mykhaylofilip.com)
-- [GitHub](https://github.com/mykhaylofilip)
+- contact@mykhaylofilip.com
+- github.com/mykhaylofilip
+
 ## Browse
+- Posts
+  All of my posts in order.
+- Projects
+  Any project that I have made.
+- Hall Of Fame
+  My favorite projects, posts, or anything else.
