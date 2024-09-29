@@ -22,4 +22,16 @@ If you would like to contact me you can do so through one of the following:
   My favorite projects, posts, or anything else.
 
 ### More About Me
-Who am I? I am a student at Colts Neck High School, currently in my junior year. I am trying to major in Computer Science or Cyber Secuirty. Both are fields of intrest for me.
+
+<dl>
+<dt>Name</dt>
+<dd>Mykhaylo Filip</dd>
+<dt>Born</dt>
+<dd>2008</dd>
+<dt>Birthplace</dt>
+<dd>Ukraine</dd>
+<dt>School</dt>
+<dd>Colts Neck High School</dd>
+<dt>Majors of Intrest</dt>
+<dd>CS</dd>
+</dl>
