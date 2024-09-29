@@ -12,11 +12,11 @@ If you would like to contact me you can do so through one of the following:
 
 ## Browse
 - Posts
-- 
+  
   All of my posts in order.
 - Projects
-- 
+  
   Any project that I have made.
 - Hall Of Fame
-- 
+  
   My favorite projects, posts, or anything else.
