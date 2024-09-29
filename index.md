@@ -11,12 +11,15 @@ If you would like to contact me you can do so through one of the following:
 - github.com/mykhaylofilip
 
 ## Browse
-- Posts
+- [Posts](./posts)
   
   All of my posts in order.
-- Projects
+- [Projects](./projects)
   
   Any project that I have made.
-- Hall Of Fame
+- [Hall Of Fame](./halloffame)
   
   My favorite projects, posts, or anything else.
+
+### More About Me
+Who am I? I am a student at Colts Neck High School, currently in my junior year. I am trying to major in Computer Science or Cyber Secuirty. Both are fields of intrest for me.
