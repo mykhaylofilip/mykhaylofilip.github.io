@@ -17,9 +17,9 @@ If you would like to contact me you can do so through one of the following:
 - [Projects](./projects)
   
   Any project that I have made.
-- [Hall Of Fame](./halloffame)
+- [Awards](./awards)
   
-  My favorite projects, posts, or anything else.
+  Certifications, awards, and competitions that I have aquired/participated in.
 
 ### More About Me
 
