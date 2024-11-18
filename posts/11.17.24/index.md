@@ -46,7 +46,7 @@ This tranlates into the following numbers below:
 
 ```29316250624_1677100110841_207616015289871_52389094428262881_13021612539908538853_16850581551_3462825991689_736141813551277_10828567056280801_13021612539908538853_28153056843_1418519112256_122987386542487_49077072127303936_1689478959002692096_29316250624_5789336458816```
 
-That is your final code in intger. Obviously this entire algorithm can be condensed if just done in binary entirely.
+That is your final code in integer form. Obviously this entire algorithm can be condensed if just done in binary entirely.
 
-#Cracking
+# Cracking
 To crack this code you would have to know atleast the first key, what letter equals which number. The simplist way is to take a number and check for a perfect square, then a perfect cube, and so on untill you find the what the exponent is. Then you just simply compare it to the key and get your code. If you increase the exponents anywhere up to 100 not only is the code going to be increadibly time consumeing by programs to crack but also very data intesive because of the size of the numbers. In general this code is fairly easy to crack as long as you have the first key, the exponents are just to randomize the code and stop frequency anaylsis.
