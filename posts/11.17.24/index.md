@@ -34,12 +34,18 @@ This method works by first assigning each letter or character a number. Atleast 
 |(Space)|133|
 |(Pierod)|134|
 
+
 This table should be on both recieving ends and is one of the keys. The second key is the order of exponents. The way that this algorithm works is by first translating each character into each Corresponding Number. We will use the code "This is a secret".
+
 ```This is a secret -> 124_109_111_123_133_111_123_133_101_133_123_106_103_122_106_124_134```
+
 The next step is to make the second key. The second key will be any 10 numbers between 5-9. Obviously this can be modified to any number amount you want and however high you want it. The higher the numbers the harder to crack. For simplicity I will be useing the code 5678956789. Apply each exponent base to the above numbers in order.
+
 ```124_109_111_123_133_111_123_133_101_133_123_106_103_122_106_124_134 -> 124^5_109^6_111^7_123^8_133^9_111^5_123^6_133^7_101^8_133^9_123^5_106^6_103^7_122^8_106^9_124^5_134^6```
 This tranlates into the following numbers below:
+
 ```29316250624_1677100110841_207616015289871_52389094428262881_13021612539908538853_16850581551_3462825991689_736141813551277_10828567056280801_13021612539908538853_28153056843_1418519112256_122987386542487_49077072127303936_1689478959002692096_29316250624_5789336458816```
+
 That is your final code in intger. Obviously this entire algorithm can be condensed if just done in binary entirely.
 
 #Cracking
