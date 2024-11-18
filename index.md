@@ -14,9 +14,7 @@ If you would like to contact me you can do so through one of the following:
 - [Posts](./posts)
   
   All of my posts in order.
-- [Projects](./projects)
-  
-  Any project that I have made.
+
 - [Awards](./awards)
   
   Certifications, awards, and competitions that I have aquired/participated in.
