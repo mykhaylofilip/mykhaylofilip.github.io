@@ -7,4 +7,4 @@
 # Awards
 
 # Competitions 
-- **NCL FALL 2024** - Individual Standared Bracket 1106/8437
+- **NCL FALL 2024** - Individual Standared Bracket 1106/8437, Platinum 2, 74th Percentile
