@@ -7,4 +7,4 @@
 # Awards
 
 # Competitions 
-- **NCL FALL 2024** - Individual Standared Bracket 1106/8437
+- [**NCL FALL 2024**](https://cyberskyline.com/report/9WJDWMDGX3NM) - Individual Standared Bracket 1106/8437
