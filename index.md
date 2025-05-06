@@ -17,7 +17,7 @@ If you would like to contact me you can do so through one of the following:
 
 - [Awards](./awards)
   
-  Certifications, awards, and competitions that I have aquired/participated in.
+  Certifications, awards, and competitions that I have acquired/participated in.
 
 ### More About Me
 
@@ -30,6 +30,6 @@ If you would like to contact me you can do so through one of the following:
 <dd>Ukraine</dd>
 <dt>School</dt>
 <dd>Colts Neck High School</dd>
-<dt>Majors of Intrest</dt>
+<dt>Majors of Interest</dt>
 <dd>CS</dd>
 </dl>
