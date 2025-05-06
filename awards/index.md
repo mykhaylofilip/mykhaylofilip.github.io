@@ -1,4 +1,4 @@
-t# Certifications
+# Certifications
 - **THM** - Pre Security Learning Path
 - **THM** - Introduction to Cyber Security Learning Path
 - **IBM** - Cybersecuirty Fundamentals
