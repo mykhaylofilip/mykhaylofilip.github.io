@@ -5,7 +5,7 @@
 - **IBM** - Data Fundamentals
 
 # Awards
-- **NCL** - Top 500 Challange Coin
+- **NCL** - Spring 2025 Challange Coin
 
 # Competitions 
 *Competed under the team name Cryptonic*
