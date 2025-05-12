@@ -13,5 +13,5 @@
 - [**NCL Spring 2025**](https://cyberskyline.com/report/LTUXC2J2MQRT) - Individual Standard Bracket 364/8573
 - [**Jersey CTF V**](https://ctf.jerseyctf.com/scoreboard) - Standard Bracket 133/407
 - [**Pico CTF 2025**](https://play.picoctf.org/events/74/scoreboards) - Global 3836/10460
-- [**Garden State CTF**] - Round 1
+- [**Garden State CTF**](gardenstate1.pdf) - Round 1
 - [**NCL Fall 2024**](https://cyberskyline.com/report/9WJDWMDGX3NM) - Individual Standard Bracket 1106/8437
