@@ -19,4 +19,4 @@
 - **Garden State CTF** - Round 1
 - **NCL Fall 2024** - Individual Standard Bracket 1106/8437
 
-*For proof please email mykhaylofilip@icloud.com. Serious inquires only. Thank you.*
+*For proof please email mykhaylofilip@icloud.com. Serious inquiries only. Thank you.*
