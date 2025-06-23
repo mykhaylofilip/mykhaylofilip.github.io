@@ -1,4 +1,7 @@
-# Certifications
+# Professional Certifications
+- **GCC** - Google Cybersecurity Certificate
+
+#  Certifications
 - **THM** - Pre Security Learning Path
 - **THM** - Introduction to Cyber Security Learning Path
 - **IBM** - Cybersecuirty Fundamentals
@@ -9,9 +12,11 @@
 
 # Competitions 
 *Competed under the team name Cryptonic*
-- [**NCL Spring 2025**](https://cyberskyline.com/report/4J2WBNNRY2Y0) - Team Standard Bracket 565/4799
-- [**NCL Spring 2025**](https://cyberskyline.com/report/LTUXC2J2MQRT) - Individual Standard Bracket 364/8573
-- [**Jersey CTF V**](https://ctf.jerseyctf.com/scoreboard) - Standard Bracket 133/407
-- [**Pico CTF 2025**](https://play.picoctf.org/events/74/scoreboards) - Global 3836/10460
-- [**Garden State CTF**](gardenstate1.pdf) - Round 1
-- [**NCL Fall 2024**](https://cyberskyline.com/report/9WJDWMDGX3NM) - Individual Standard Bracket 1106/8437
+- **NCL Spring 2025** - Team Standard Bracket 565/4799
+- **NCL Spring 2025** - Individual Standard Bracket 364/8573
+- **Jersey CTF V** - Standard Bracket 133/407
+- **Pico CTF 2025** - Global 3836/10460
+- **Garden State CTF** - Round 1
+- **NCL Fall 2024** - Individual Standard Bracket 1106/8437
+
+*For proof please email mykhaylofilip@icloud.com. Serious inquires only. Thank you.*
