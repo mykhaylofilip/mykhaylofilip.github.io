@@ -7,10 +7,11 @@ Hello! Welcome to my website. I am a 16 year old Cyber and Math enthusiast, just
 
 If you would like to contact me you can do so through one of the following:
 
+- mykhaylofilip@icloud.com
 - contact@mykhaylofilip.com
 - github.com/mykhaylofilip
 
-## Browse
+# Browse
 - [Posts](./posts)
   
   All of my posts in order.
@@ -19,7 +20,7 @@ If you would like to contact me you can do so through one of the following:
   
   Certifications, awards, and competitions that I have acquired/participated in.
 
-### More About Me
+# More About Me
 
 <dl>
 <dt>Name</dt>
@@ -33,3 +34,4 @@ If you would like to contact me you can do so through one of the following:
 <dt>Majors of Interest</dt>
 <dd>CS</dd>
 </dl>
+
