@@ -1,4 +1,6 @@
 # Major AWS Outage – October 2025  
+I would first of all like to mention this will be my first current event post on my website. I hope anyone who reads it finds it interesting. :D
+
 On October 20, 2025, Amazon Web Services (AWS) suffered a massive outage in its US‑EAST‑1 region that disrupted hundreds (if not thousands) of websites and services worldwide.
 
 The root cause? A DNS resolution failure in AWS’s DynamoDB service and a cascading chain of dependencies that broke down load‑balancing and compute capacity.
