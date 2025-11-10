@@ -2,7 +2,7 @@
 | Date         | Title             | Category  |
 |:-------------|:------------------|:----------|
 | 10/25/2025   | [AWS Outage](./10.25.25)                        | Other                        |
-| 09/20/2025   | [My NCL Pre Game0](./9.20.25)                    | Competition                  |
+| 09/20/2025   | [My NCL Pre Game0](./9.20.25)                   | Competition                  |
 | 08/01/2025   | [Exploring VPN Protocols](./8.1.25)             | Networking                   |
 | 07/28/2025   | [Brave Password Manager](./7.28.25)             | Other                        |
 | 06/18/2025   | [Symmetric vs Asymmetric Encryption](./6.18.25) | Cryptography                 |
