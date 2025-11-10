@@ -2,9 +2,9 @@
 
 | Date         | Title             | Category  |
 |:-------------|:------------------|:----------|
-| 5/27/2025     |                                                 |                      |
-| 4/14/2025     |                                                 |                      |
-| 3/9/2025      |                                                 |                      |
+| 5/27/2025     | [2FA - Thougths](./5.27.25)                     | Other                |
+| 4/14/2025     | [Uncomplicated Firewall Setup](./4.14.25)       | Networking           |
+| 3/9/2025      | [TLS HandShake](./3.9.25)                       | Networking           |
 | 2/23/2025     | [WSL](./2.23.25)                                | Program              |
 | 1/5/2025      | [Kali linux in ARM](./1.5.25)                   | Operating System     |
 | 12/19/2024    | [Top 2 Cyber Cert Pick](./12.19.24/)            | Certification        |
