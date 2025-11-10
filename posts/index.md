@@ -1,5 +1,4 @@
 # Posts
-**| Operating System | Networking | Cryptography | Programming | Certification | Competition | Other |**
 | Date         | Title             | Category  |
 |:-------------|:------------------|:----------|
 | 10/25/2025   | [AWS Outage](./10.25.25)                        | Other                        |
