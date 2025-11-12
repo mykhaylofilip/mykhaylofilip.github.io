@@ -3,8 +3,9 @@ description:  >
   <div class="button-group">
     <a href="/posts" class="btn">Posts</a>
     <a href="/awards" class="btn">Awards</a>
-    <a href="/about" class="btn">About</a>
   </div>
+include:
+  - styles.css
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
