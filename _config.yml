@@ -1,5 +1,5 @@
 title: Mykhaylo Filip
-description: Test
+description: <a href="/posts" class="btn">Posts</a> <a href="/awards" class="btn">Awards</a>
 show_downloads: false
 google_analytics:
 theme: jekyll-theme-slate
