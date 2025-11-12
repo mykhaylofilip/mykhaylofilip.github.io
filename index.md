@@ -24,16 +24,13 @@ If you would like to contact me you can do so through one of the following:
 
 # More About Me
 
-<dl>
-<dt>Name</dt>
-<dd>Mykhaylo Filip</dd>
-<dt>Born</dt>
-<dd>2008</dd>
-<dt>Birthplace</dt>
-<dd>Ukraine</dd>
-<dt>School</dt>
-<dd>Colts Neck High School</dd>
-<dt>Majors of Interest</dt>
-<dd>CS</dd>
-</dl>
+**Name** - Mykhaylo Filip
+
+**Born** - 2008
+
+**Birthplace** - Ukraine
+
+**School** - Colts Neck High School
+
+**Majors of Interest** - Physics, Computer Science, Cyber Security
 
