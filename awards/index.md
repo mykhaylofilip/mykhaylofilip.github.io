@@ -1,17 +1,18 @@
 # Professional Certifications
 - **GCC** - Google Cybersecurity Certificate
 
-#  Certifications
+# Certifications
 - **THM** - Pre Security Learning Path
 - **THM** - Introduction to Cyber Security Learning Path
-- **IBM** - Cybersecuirty Fundamentals
+- **IBM** - Cybersecurity Fundamentals
 - **IBM** - Data Fundamentals
 
 # Awards
-- **NCL** - Spring 2025 Challange Coin
+- **NCL** - Spring 2025 Challenge Coin
 
-# Competitions 
+# Competitions
 *Competed under the team name Cryptonic*
+
 | Title                | Bracket     | Score/Rating |
 |:---------------------|:------------|:-------------|
 | NCL Fall 2025        | HighSchool  | **40/1042**  |
@@ -26,4 +27,4 @@
 | Garden State CTF     | Standard    | Round 1      |
 | NCL Fall 2024        | Individual  | 1106/8437    |
 
-*For proof please email mykhaylofilip@icloud.com. Serious inquiries only. Thank you.*
+*For proof please email [mykhaylofilip@icloud.com](mailto:mykhaylofilip@icloud.com). Serious inquiries only. Thank you.*
