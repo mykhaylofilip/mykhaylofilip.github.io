@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Top 2 Cyber Cert Pick
 So I decided to make this for certificates that I want right as I leave High School. These are my top 2 Picks. Keep in mind these certs I would love to achieve as soon as I leave high school, or while im still in it.
 ## [GFACT](https://www.giac.org/certifications/foundational-cybersecurity-technologies-gfact/)

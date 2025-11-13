@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Google Cybersecurity Certificate
 Recently, I acquired the Google Cybersecurity Professional Certificate. To be honest, the course explored very basic concepts and didn’t go in depth on many topics.
 

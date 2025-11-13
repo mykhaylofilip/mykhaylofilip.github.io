@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Symmetric vs Asymmetric Encryption
 Encryption is a core part of cryptography, and understanding the difference between symmetric and asymmetric methods is crucial.  
 

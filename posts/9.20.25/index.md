@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # NCL
 Each season before NCL, I try to download a couple of tools that could help me for the challenge. I focus on tools that cover areas like network scanning, cryptography, and forensics.  
 

@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Exponential Cryptology with Keys - (ECK)
 First of all I have to mention this is a proof of concept and has lots of flaws. This is by no means any method to keep data secure and can be broken incredibly easily. This has also been found out in some form or another at some point.
 

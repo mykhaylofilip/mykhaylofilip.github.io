@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Kali Linux on ARM Devices
 I experimented with installing Kali Linux on a Raspberry Pi 4B. ARM builds have improved dramatically over the years, offering full Kali toolsets without major compromises. The key is to use a lightweight desktop environment, like XFCE, to minimize CPU strain.
 

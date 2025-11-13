@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Simple Firewall Setup on Linux
 I wanted to set up a basic firewall on my Linux machine. Using `ufw` (Uncomplicated Firewall), I was able to block unnecessary ports and allow only the services I need, like SSH and HTTP.
 

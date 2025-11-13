@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Exploring VPN Protocols
 I dug deeper into how VPNs work and discovered the differences between protocols like OpenVPN, WireGuard, and IKEv2.  
 

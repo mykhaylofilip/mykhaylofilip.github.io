@@ -3,16 +3,16 @@
 # Professional Certifications
 - **GCC** - Google Cybersecurity Certificate
 
-# Certifications
+## Certifications
 - **THM** - Pre Security Learning Path
 - **THM** - Introduction to Cyber Security Learning Path
 - **IBM** - Cybersecurity Fundamentals
 - **IBM** - Data Fundamentals
 
-# Awards
+## Awards
 - **NCL** - Spring 2025 Challenge Coin
 
-# Competitions
+## Competitions
 *Competed under the team name Cryptonic*
 
 | Title                | Bracket     | Score/Rating |
