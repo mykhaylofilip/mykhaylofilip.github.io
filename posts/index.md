@@ -1,3 +1,5 @@
+<div align="center">
+
 # Posts
 
 | Date         | Title             | Category  |
@@ -19,3 +21,5 @@
 | 10/22/2024   | [Lubuntu](./10.22.24/)                          | Operating System             |
 | 10/18/2024   | [Revision OS](./10.18.24/)                      | Operating System             |
 | 07/08/2024   | [DiskScan Program](./7.8.24/)                   | Programing                   |
+
+</div>
