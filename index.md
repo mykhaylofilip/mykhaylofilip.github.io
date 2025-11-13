@@ -2,6 +2,8 @@
 layout: default
 ---
 
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Home
 Hi, I’m Mykhaylo Filip — a 17-year-old cybersecurity and math enthusiast from New Jersey, passionate about solving complex problems, building projects, and sharing knowledge. But this space is more than just a GitHub page, it’s my personal hub for growth, where I document my journey, showcase my achievements, and post summaries that reflect my curiosity and commitment to learn.
 
