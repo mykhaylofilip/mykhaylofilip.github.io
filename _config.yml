@@ -1,8 +1,15 @@
 title: Mykhaylo Filip
-description:  >
-  <div class="button-group">
-    <a href="/posts" class="btn">Posts</a>
-    <a href="/awards" class="btn">Awards</a>
+description: >
+  <div style="margin-top:6px;">
+    <a href="/" style="display:inline-block;background:#2b6cb0;color:#fff;padding:8px 14px;border-radius:6px;text-decoration:none;font-weight:600;box-shadow:0 2px 4px rgba(0,0,0,.2);margin-right:8px;">
+      Home
+    </a>
+    <a href="/posts" style="display:inline-block;background:#2b6cb0;color:#fff;padding:8px 14px;border-radius:6px;text-decoration:none;font-weight:600;box-shadow:0 2px 4px rgba(0,0,0,.2);margin-right:8px;">
+      Posts
+    </a>
+    <a href="/awards" style="display:inline-block;background:#2b6cb0;color:#fff;padding:8px 14px;border-radius:6px;text-decoration:none;font-weight:600;box-shadow:0 2px 4px rgba(0,0,0,.2);">
+      Awards
+    </a>
   </div>
 include:
   - styles.css
