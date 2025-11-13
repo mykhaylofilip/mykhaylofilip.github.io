@@ -1,2 +1,4 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Puppy Linux
 Moving away from Lubuntu, which is a great Operating system, I found Puppy Linux to suit my Acer Aspire one better. Its for starters much more secure with it being a live OS on Ram. I found it to be surprisingly much more smoother(even the 32bit version which I used was smooth). I could do light Google searchs and connect to the internet all without error. Watching videos on the other hand was much more difficult and even after installing multiple drivers I could only watch youtube with terrible buffering. 32bit Puppy doesnt have the greatest of softwares because of its outdated nature. This was my first time trying out Puppy Linux (other than VM) and it was a overall decent experince. Sometimes especially right after boot, Puppy Linux would be extremley slow. I would much rather use Puppy Linux than Lubuntu for a 32bit Laptop. 
