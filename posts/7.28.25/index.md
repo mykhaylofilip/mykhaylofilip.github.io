@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Brave Password Manager
 I use the default Brave password manager.  
 
