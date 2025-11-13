@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # Major AWS Outage – October 2025  
 I would first of all like to mention this will be my first current event post on my website. I hope anyone who reads it finds it interesting. :D
 
