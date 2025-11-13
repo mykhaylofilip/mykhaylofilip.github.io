@@ -15,7 +15,7 @@ If you would like to contact me you can do so through one of the following:
 - contact@mykhaylofilip.com
 - github.com/mykhaylofilip
 
-# Browse
+## Browse
 - [Posts](./posts)
   
   All of my posts in order.
@@ -24,7 +24,7 @@ If you would like to contact me you can do so through one of the following:
   
   Certifications, awards, and competitions that I have acquired/participated in.
 
-# More About Me
+## More About Me
 
 **Name** - Mykhaylo Filip
 
