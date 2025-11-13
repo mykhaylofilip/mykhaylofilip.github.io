@@ -1,3 +1,5 @@
+<link rel="stylesheet" href="/assets/css/custom.css">
+
 # ReviOS
 For about 10 months, I have been using ReviOS. It is a customized version of Windows. It supports both Windows 10 and 11, which can be nifty to a user's preference. For starters, ReviOS reduces RAM usage drastically. Of course, this can vary from system to system, but with a base Windows system, it can have up to a GB reduction of RAM. It can be utilized for gaming or for systems that slow down when running normal Windows. It can be installed through the Revision Playbook. This playbook has a variety of features that just make it easy for users. For example, one of my favorite features, Superfetch. It speeds up boot time and program load time by preloading necessary data into memory. This is extremely useful for HDD users.
 
