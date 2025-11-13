@@ -1,0 +1,15 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>{{ page.title | default: site.title }}</title>
+
+  <!-- Global CSS -->
+  <link rel="stylesheet" href="/assets/css/custom.css">
+
+  {{ content_for_head }}
+</head>
+<body>
+  {{ content }}
+</body>
+</html>
