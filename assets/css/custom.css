@@ -1,0 +1,9 @@
+h1 {
+  text-align: center;
+}
+
+table, .table-wrapper, div.table-wrapper {
+  margin-left: auto !important;
+  margin-right: auto !important;
+  display: table;
+}
