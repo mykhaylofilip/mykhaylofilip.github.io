@@ -1,6 +1,6 @@
 <link rel="stylesheet" href="/assets/css/custom.css">
 
-# Professional Certifications
+## Professional Certifications
 - **GCC** - Google Cybersecurity Certificate
 
 ## Certifications
