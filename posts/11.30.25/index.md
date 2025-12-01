@@ -15,6 +15,6 @@ After fully setting up the laptop, this is what the laptop looked like.
 A clean Windows 11 Pro install, with all of the telemetry features disabled, and to my liking. With nothing open, the CPU idles at 0%, and doing simple tasks the CPU doesn't pass 25%.
 I have had almost no ARM-based problems yet. I also haven't tested the GPU much. I ran some simple password-cracking tests and it performed decently. I would like to test gaming in the future.
 
-![Title](Taskmanager.png)
+![Title](TaskManager.png)
 
 If this laptop holds up well, I might stick to Snapdragon processors for a while. I have also been looking into the new X2 processors they have coming out in the first half of 2026, and they look incredibly interesting, especially with the promise of a new and improved GPU gen.
