@@ -4,6 +4,7 @@
 
 | Date         | Title             | Category  |
 |:-------------|:------------------|:----------|
+| 11/30/2025   | [ThinkPad T14 Gen 6 - SnapDragon](./11.30.25)   | Other                        |
 | 10/25/2025   | [AWS Outage](./10.25.25)                        | Other                        |
 | 09/20/2025   | [My NCL Pre Game](./9.20.25)                    | Competition                  |
 | 08/01/2025   | [Exploring VPN Protocols](./8.1.25)             | Networking                   |
