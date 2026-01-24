@@ -3,14 +3,13 @@
 ## Professional Certifications
 - **GCC** - Google Cybersecurity Certificate
 
-## Certifications
-- **THM** - Pre Security Learning Path
-- **THM** - Introduction to Cyber Security Learning Path
-- **IBM** - Cybersecurity Fundamentals
-- **IBM** - Data Fundamentals
-
 ## Awards
+- **NCL** - Fall 2025 Challenge Coin
 - **NCL** - Spring 2025 Challenge Coin
+
+## Profiles
+- **THM** - [Try Hack Me](https://tryhackme.com/p/MykhayloFilip)
+- **PWN** - [Pwn.College](https://pwn.college/hacker/MykhayloFilip)
 
 ## Competitions
 *Competed under the team name Cryptonic*
