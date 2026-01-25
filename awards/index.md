@@ -10,6 +10,7 @@
 ## Profiles
 - **THM** - [Try Hack Me](https://tryhackme.com/p/MykhayloFilip)
 - **PWN** - [Pwn.College](https://pwn.college/hacker/MykhayloFilip)
+- **PICO** - [Pico CTF](https://play.picoctf.org/users/Mykhaylo_Filip)
 
 ## Competitions
 *Competed under the team name Cryptonic*
